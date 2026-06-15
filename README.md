@@ -1,4 +1,4 @@
-##Instrucciones: 
+## Instrucciones: 
 
 Desarrolla un formulario que se encargue de capturar datos de los alumnos. Se debe integrar un botón “Registrar” para que al presionarlo nos dirija a una nueva página en la que se mostrará un mensaje de manera opcional. Este debe contener: 
 
