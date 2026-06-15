@@ -32,13 +32,13 @@ Debe tener los siguientes campos con sus respectivos títulos:
 
 Al finalizar el formulario, muestra el botón “Registrar” para acceder a una nueva página. 
 
-![Formato de registro de alumnos](https://github.com/alvarosc2/web/img/FormatoRegistroAlumnos.png)
+![Formato de registro de alumnos](/img/FormatoRegistroAlumnos.png)
 
 Desarrolla una interfaz gráfica para el archivo card.html, donde se muestre la leyenda “Datos enviados”, la cual debe cumplir con la siguiente característica:  
 
 El mensaje debe estar sobre un contenedor que se diferencie del fondo blanco que tiene por defecto el cuerpo del documento. 
 
-![Tarjeta de datos enviados](https://github.com/alvarosc2/web/img/TarjetaDatosEnviados}.png)
+![Tarjeta de datos enviados](/img/TarjetaDatosEnviados}.png)
 
 Nota: 
 Los estilos de cada página deben estar en diferentes archivos y deben ser nombrados desde sus respectivos archivos HTML. 
